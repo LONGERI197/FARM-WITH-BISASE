@@ -37,7 +37,7 @@ Submit. Input example, the program compares the inputs with the conditions set f
 * JavaScript
 * Bootstrap
 
-Contact information.
+### Contact information.
 
 * EMAIL:bisaselilian11@gmail.com
 * +254716438036
