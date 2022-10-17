@@ -1,6 +1,6 @@
 h1
 {
-background-color: aquamarine;color: red; font-style: italic;   
+background-color:darkblue: red; font-style: italic;   
 }
 h3
 {
@@ -17,7 +17,7 @@ body{
   
 }
 #container{
-background-color: blanchedalmond;
+background-color: whitesmoke;
 height: 60%;
 display: flex;
 flex-direction: column;
