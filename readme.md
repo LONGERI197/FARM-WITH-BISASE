@@ -14,10 +14,11 @@ BDD.
 Technologies used.
 * HTML5
 * CSS
-JavaScript
-markdown
-Bootstrap
+* JavaScript
+* Bootstrap
+
 Contact information.
+
 * EMAIL:bisaselilian11@gmail.com
 * 0716438036
 * FACEBOOK;https://www.facebook.com/Bisylily/?ref=pages_you_manage
