@@ -21,15 +21,9 @@ BDD.
 
 #### Select gender Input example male output male
 
-Submit. Input example, the program compares the inputs with the conditions set for the inputs eg if No input field is empty, the program executes else an alert to enter valid deatils.
+#### Submit. Input example, the program compares the inputs with the conditions set for the inputs eg if No input field is empty, the program executes else an alert to enter valid deatils.
 
-0 < Date >= 31.
-0 < Month >= 12
-Gender Male or Female.
-
-True value is output. Output example: You were born on Sunday and Your akan name is Kwasi! &nbsp If your gender is Male.
-True value is output. Output example: You were born on Sunday and Your akan name is Akosua! &nbsp If your gender is female.
-Technologies used.
+### Technologies used.
 * HTML5
 * CSS
 * JavaScript
