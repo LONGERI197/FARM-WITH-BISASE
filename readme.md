@@ -8,7 +8,7 @@ Project description.
 The app is live at  https://longeri197.github.io/FARM-WITH-BISASE/
 
 Author(s) information.
-### 
+### Lilian Bisase Ongeri
 Setup instructions - includes any scripts that need to be run if necessary.
 BDD.
 
@@ -26,3 +26,4 @@ Contact information.
 * YOUTUBE:https://www.youtube.com/channel/UCgG5OkubE7uTEmm6j-uCxsQ
 
 License and Copyright information.
+#### Copyright (c) 2022 Lilian Bisase
