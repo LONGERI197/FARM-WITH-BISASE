@@ -11,7 +11,13 @@ The app is live at  https://longeri197.github.io/FARM-WITH-BISASE/
 Lilian Bisase Ongeri
 
 ### Setup instructions - includes any scripts that need to be run if necessary.
+To view the app open the github pages link https://github.com/LONGERI197/FARM-WITH-BISASE.git
+Here are some of the instructions on how to set up :
+- Step 1 : Clone this repository using git clone https://github.com/LONGERI197/FARM-WITH-BISASE.git, or downloading a ZIP file of the code.
 
+- Step 2 : The repository, if downloaded as a .zip file will need to be extracted to your preferred location and opened
+
+- Step 3 : Open the index.html file to view the application on your preferred web browser
 ### BDD
  For our project the end user is supposed to:
 
