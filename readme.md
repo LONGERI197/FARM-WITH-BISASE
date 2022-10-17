@@ -12,6 +12,11 @@ Author(s) information.
 Setup instructions - includes any scripts that need to be run if necessary.
 BDD.
 Technologies used.
+* HTML5
+CSS
+JavaScript
+markdown
+Bootstrap
 Contact information.
 * EMAIL:bisaselilian11@gmail.com
 * 0716438036
