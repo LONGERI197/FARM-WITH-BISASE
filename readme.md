@@ -13,7 +13,7 @@ Setup instructions - includes any scripts that need to be run if necessary.
 BDD.
 Technologies used.
 * HTML5
-CSS
+* CSS
 JavaScript
 markdown
 Bootstrap
